@@ -61,20 +61,11 @@ Bubble chart depicting the number of rounds across the participating drivers in 
 Stacked Bar chart describing the race status for grand prix for the participating drivers in F1
 
 
-## Contributors 
 
-* [Chinmay Wyawahare](https://github.com/gandalf1819)
-* [Vineet Viswakumar](https://github.com/vineet247)
 
 ## References
 
 [1] https://www.kaggle.com/cjgdev/formula-1-race-data-19502017 <br>
 [2] https://www.behance.net/gallery/63599447/Formula-One-2018
 
-## Support
 
-If you found this useful, please consider starring(★) the repo so that it can reach a broader audience
-
-## License
-
-This project is licensed under the MIT License. Feel free to create a Pull Request for adding implementations or suggesting new ideas to make the analysis more insightful
